@@ -55,7 +55,7 @@ public class Shopping2 {
             
        }
        System.out.println("Total product cost (+ shipping fee): R" + totalCost);
-
+       System.out.println();
     }
     
 }
